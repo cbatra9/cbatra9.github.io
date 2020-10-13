@@ -5,7 +5,7 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-Data Analyst at JCPenney  
+:woman_technologist: Data Analyst at JCPenney  
 :mortar_board: Bachelor in Economics Policy from New York University
 
 I’m an apsiring data scientist, with 3+ years experience in providing statistical data analytics solutions to drive growth for organizations. I specialize in Retail Analytics, Time Series Forecasting, Natural Language Processing, Dashboard and Storytelling.
