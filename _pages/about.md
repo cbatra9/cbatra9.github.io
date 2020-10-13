@@ -6,6 +6,7 @@ header:
 ---
 
 Data Analyst at JCPenney
+
 Bachelor in Economics Policy from New York University
 
 I’m an apsiring data scientist, with 3+ years experience in providing statistical data analytics solutions to drive growth for organizations. I specialize in Retail Analytics, Time Series Forecasting, Natural Language Processing, Dashboard and Storytelling.
