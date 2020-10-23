@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Chandrika Batra"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Bangalore, India"
   email            :
