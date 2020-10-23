@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/Profile.JPG"
+  image: "/images/zakim.jpg"
 ---
 
 :woman_technologist: Data Analyst at JCPenney  
