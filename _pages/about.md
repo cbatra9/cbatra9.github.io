@@ -12,5 +12,3 @@ I am an aspiring data scientist, with 3+ years experience in providing statistic
 
 I am a trainer for R programming. I have conducted training sessions for over 100+ corporate associates.  
 [Click here](https://cbatra9.github.io/JCP-R-Training/) for the course website and syllabus.
-
-I love working on projects together, so feel free to reach out for collaboration!
