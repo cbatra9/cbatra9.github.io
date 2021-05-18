@@ -22,7 +22,7 @@ Resources to learn data science using `R` :bulb:
     - **[Intermediate R Programming](https://www.dataquest.io/course/intermediate-r-programming/)**
     - **[Data Visualization in R](https://www.dataquest.io/course/r-data-viz/)**
 
-4. **[Swirl: Learn R interactively within R Studio](https://swirlstats.com/students.html)**: The swirl R package is a fun and easy way to learn R programming and analytics. 
+4. **[Swirl: Learn R interactively within R Studio](https://swirlstats.com/students.html)**: The swirl R package is a fun and easy way to learn data wrangling using R. 
 
 5. **[R Bootcamp](https://www.datacamp.com/courses/rbootcamp)**: This short course illustrates the basics of [`ggplot`](https://ggplot2.tidyverse.org/), [`dplyr`](https://dplyr.tidyverse.org/), [`tidyr`](https://tidyr.tidyverse.org/) and `broom`.
 
