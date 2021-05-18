@@ -1,5 +1,5 @@
 ---
-title: "Resources to learn Data Science using R"
+title: "Data Science Resources"
 date: 2021-05-15
 tags: [data wrangling, data science, R]
 header:
