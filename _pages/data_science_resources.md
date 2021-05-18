@@ -8,7 +8,7 @@ header:
 ---
 
 Resources to learn data science using `R` :bulb:
-****
+**
 
 ### Test your knowledge of R foundations by taking the [R Foundations Quiz](http://rpubs.com/cbatra/500620)
 
