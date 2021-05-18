@@ -1,6 +1,6 @@
 ---
 title: "Resources to learn Data Science using R"
-date: 2020-10-28
+date: 2021-05-15
 tags: [data wrangling, data science, R]
 header:
   image: "/images/perceptron/percept.jpg"
