@@ -28,9 +28,6 @@ Resources to learn data science using `R` :bulb:
 
 ****
 ### Books :books:
-
-<details>
-  <summary>Click to expand!</summary>
     
 1. **[R For Data Science](https://r4ds.had.co.nz/)**: This book is a great introduction to `R` and covers the components of the [`Data Science pipeline`](https://r4ds.had.co.nz/introduction.html) which we discussed in the session. 
 
@@ -38,12 +35,8 @@ Resources to learn data science using `R` :bulb:
 
 3. **[Cookbook for R](http://www.cookbook-r.com)** The goal of the cookbook is to provide solutions to common tasks and problems in analyzing data. Most of the code in these pages can be copied and pasted into the R command window if you want to see them in action.
 
-</details>
-
 ****
 ### Tutorials :ledger:
-<details>
-  <summary>Click to expand!</summary>
  
 1. **[R Programming](https://swcarpentry.github.io/r-novice-inflammation/)**
 
@@ -53,15 +46,9 @@ Resources to learn data science using `R` :bulb:
 
 4. **[Data Wrangling with R](https://cengel.github.io/R-data-wrangling/)**
 
-
-</details>
-
 ***
     
 ### Videos :tv:
-
-<details>
-  <summary>Click to expand!</summary>
     
 1. **[What is R?](https://www.youtube.com/watch?v=XcBLEVknqvY)** : A very good introductory video on R. 
 
@@ -69,18 +56,10 @@ Resources to learn data science using `R` :bulb:
 
 3. **[Data Analysis Screencasts](https://www.youtube.com/watch?v=nx5yhXAQLxw&list=PLnH3UnphKJdvbQsOFoFcTrbn18I_NBvW3)** : [David Robinson](http://varianceexplained.org/) is a Data Scientest at Datacamp and does a weekly #TidyTuesday Screencast. You can do it along with him, very good exercise in Data Analysis using R. 
 
-</details>
-
 ****
 ### Assignments :pencil:
-
-<details>
-  <summary>Click to expand!</summary>
 
 1. **The Analytics Edge** course either on [OCW](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/index.htm) or [edx](https://edx.org/course/the-analytics-edge). Please check the assignments tab. They have provided the data for each assignment. You can readily check your answers on their website. 
 
   * Some of these assignments would expect you to know more than what was covered in class, so make extensive use of Google. This is a proper Masters level course taught at MIT in their Business Analytics program, so expect it to be challenging but you will definitely learn a lot if you are able to finish the assignments. 
-
-
-</details>
 
