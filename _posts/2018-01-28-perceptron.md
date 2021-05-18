@@ -1,5 +1,5 @@
 ---
-title: "Data Wrangling Project"
+title: "Data Science Projects"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
@@ -8,56 +8,30 @@ excerpt: "Data Wrangling, Data Science, Messy Data"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Data Science Projects
+List of completed Data Science Projects
 
-## H2 Heading
+## DataCamp Projects 
 
-### H3 Heading
+- [Project 1: Text Analysis of Trump Tweets](https://github.com/cbatra9/DataScienceProjects/blob/master/Text%20Analysis%20of%20Trump%20Tweets.ipynb): Apply text mining to Donald Trump's Tweets to confirm if he writes the (angrier) Android half.
+  - R libraries used: `ggplot2`, `dplyr`, `tidytext`, `lubridate`, `stringr`
 
-Here's some basic text.
+- [Project 2: Level Difficulty in Candy Crush Saga](https://github.com/cbatra9/DataScienceProjects/blob/master/Level%20Difficulty%20in%20Candy%20Crush%20Saga.ipynb): Analyze data from the hit mobile game, Candy Crush Saga to estimate level difficulty.
+  - R libraries used: `ggplot2`, `dplyr`, `readr`
+  
+- [Project 3: Visualizing Inequalities in Life Expectancy](https://github.com/cbatra9/DataScienceProjects/blob/master/Visualizing%20Inequalities%20in%20Life%20Expectancy.ipynb): Comparison of Life Expectancy across countries and genders with ggplot2.
+  - R libraries used: `ggplot2`, `dplyr`
+  
+- [Project 4: Data Science for Social Good- SF Crime Study](https://github.com/cbatra9/DataScienceProjects/blob/master/Data%20Science%20for%20Social%20Good-%20SF%20Crime%20Study.ipynb): Leverage publicly available data to interpret crime patterns within the city of San Francisco.
+  - R libraries used: `ggplot2`, `dplyr`, `ggmap`
+  
+- [Project 5: Visualizing COVID](https://github.com/cbatra9/DataScienceProjects/blob/master/Visualizing%20COVID.ipynb): Visualize the rise of COVID-19 cases globally with ggplot2.
+  - R libraries used: `ggplot2`, `dplyr`
 
-And here's some *italics*
 
-Here's some **bold** text.
+## Kaggle Projects 
 
-What about a [link](https://github.com/dataoptimal)?
+- [Project 1: Predicting heart disease](https://github.com/cbatra9/DataScienceProjects/blob/master/Predicting%20heart%20disease): 
+Predicted whether or not a patient has heart disease using classification models like logistic regression and decision trees.
+  - R libraries used: `dplyr`, `glm`, `forecast`
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
