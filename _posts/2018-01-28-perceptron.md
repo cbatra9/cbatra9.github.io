@@ -1,6 +1,6 @@
 ---
 title: "Data Science Projects"
-date: 2020-10-28
+date: 2021-4-28
 tags: [data wrangling, data science, R, Python]
 header:
   image: "/images/perceptron/percept.jpg"
