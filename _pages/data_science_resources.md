@@ -13,7 +13,7 @@ Resources to learn data science using `R` :bulb:
 
 1. **[Introduction to R by Datacamp](https://www.datacamp.com/courses/free-introduction-to-r)**
 
-2. **[Data Science: R Basics](https://www.edx.org/course/r-basics-2)**: This course by Harvard University is a part of a 9 course **[Data Science Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)**. It is recommended for those who are interested in learning ML and Statistics. 
+2. **[Data Science: R Basics](https://www.edx.org/course/r-basics-2)**: This course by Harvard University is a part of a 9 course **[Data Science Certificate](https://www.edx.org/professional-certificate/harvardx-data-science)**. The certificate is recommended for those who are interested in learning ML and Statistics. 
 
 3. **[Dataquest R Courses](https://www.dataquest.io/path/data-analyst-r/)**: Dataquest helps you learn R coding in an interactive manner. Check out their free courses:
     - **[Introduction to Programming in R](https://www.dataquest.io/course/intro-to-r/)**
