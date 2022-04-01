@@ -27,11 +27,11 @@ Resources to learn data science using `R` :bulb:
 ****
 ### Books :books:
     
-1. **[R For Data Science](https://r4ds.had.co.nz/)**: This book is an introduction to `R` and illustrates the components of the [`Data Science pipeline`](https://r4ds.had.co.nz/introduction.html). 
+1. **[R For Data Science](https://r4ds.had.co.nz/)**: An intro to `R` and illustrates the components of the [`Data Science pipeline`](https://r4ds.had.co.nz/introduction.html). 
 
-2. **[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)**: This book highlights the programmatic aspects of `R` language.
+2. **[Hands-On Programming with R](https://rstudio-education.github.io/hopr/)**: Highlights the programmatic aspects of `R` language.
 
-3. **[Cookbook for R](http://www.cookbook-r.com)** This cookbook provides solutions to common problems in analyzing data. It includes reproducible R code for hands-on learning.
+3. **[Cookbook for R](http://www.cookbook-r.com)** Provides solutions to common problems in analyzing data. It includes reproducible R code for hands-on learning.
 
 ****
 ### Tutorials :ledger:
@@ -52,7 +52,7 @@ Resources to learn data science using `R` :bulb:
 
 2. **[Why Use R? - R Tidyverse Reporting and Analytics for Excel Users](https://www.youtube.com/watch?v=jn_3N_o2d6Q)**
 
-3. **[Data Analysis Screencasts](https://www.youtube.com/watch?v=nx5yhXAQLxw&list=PLnH3UnphKJdvbQsOFoFcTrbn18I_NBvW3)** : #TidyTuesday is a weekly exercise on Data Analysis using R that is published by [David Robinson](http://varianceexplained.org/) who is a Data Scientist at Datacamp.
+3. **[Data Analysis Screencasts](https://www.youtube.com/watch?v=nx5yhXAQLxw&list=PLnH3UnphKJdvbQsOFoFcTrbn18I_NBvW3)** : #TidyTuesday is a weekly exercise on Data Analysis using R that is published by [David Robinson](http://varianceexplained.org/) (Data Scientist at Datacamp).
 
 ****
 ### Assignments :pencil:
