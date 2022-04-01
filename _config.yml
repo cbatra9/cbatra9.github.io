@@ -87,7 +87,7 @@ author:
   name             : "Chandrika Batra"
   avatar           : "/images/Profile.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
-  location         : "Bangalore, India"
+  location         : "Dublin, Ireland"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
